@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchListTask", "SearchListTask\SearchListTask.csproj", "{FFAA8B24-E7AD-44BD-BFDC-557BBC6BDB25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFAA8B24-E7AD-44BD-BFDC-557BBC6BDB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAA8B24-E7AD-44BD-BFDC-557BBC6BDB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAA8B24-E7AD-44BD-BFDC-557BBC6BDB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAA8B24-E7AD-44BD-BFDC-557BBC6BDB25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10832B9E-4629-4AD2-944E-F3B0A9D1C7AC}
+	EndGlobalSection
+EndGlobal
